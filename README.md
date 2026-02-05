@@ -17,11 +17,6 @@ Estudante de Defesa Cibernética com foco em segurança da informação, computa
 
 ---
 
-### 📊 GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sgomesgus&show_icons=true&hide_title=true&hide_rank=true&theme=dark)
-
----
-
 ### 📫 Contato
 - Email: **sgomesgus@gmail.com**  
 - LinkedIn: https://www.linkedin.com/in/sgomesgus  
