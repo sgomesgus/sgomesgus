@@ -1,16 +1,27 @@
-## Hi there 👋
+## Gustavo Gomes
 
-<!--
-**sgomesgus/sgomesgus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infraestrutura | Cloud | Security  
+Caieiras, SP — Brasil
 
-Here are some ideas to get you started:
+Estudante de Defesa Cibernética com foco em segurança da informação, computação em nuvem e infraestrutura de TI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud)
+![Networking](https://img.shields.io/badge/Networking-TCP/IP%20%7C%20DNS%20%7C%20VLANs-lightgrey)
+
+---
+
+### 📊 GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sgomesgus&show_icons=true&hide_title=true&hide_rank=true&theme=dark)
+
+---
+
+### 📫 Contato
+- Email: **sgomesgus@gmail.com**  
+- LinkedIn: https://www.linkedin.com/in/sgomesgus  
